@@ -9,7 +9,7 @@ import {
   StackRouter,
   StackRouterOptions,
   useNavigationBuilder,
-} from '@mario-navigation/native';
+} from '@react-navigation/native';
 import * as React from 'react';
 import warnOnce from 'warn-once';
 
